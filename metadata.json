@@ -1,0 +1,6 @@
+{
+  "name": "Google Sheets - 1000x1000 Spreadsheet",
+  "description": "A high-performance Google Sheets clone with a 1,000 x 1,000 virtualized grid, formulas, formatting, multi-sheet tabs, CSV import/export, and localStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
